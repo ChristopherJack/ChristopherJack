@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- 🔭 I’m currently working on completing the CompTIA A+ certification.
+- 🔭 I’m currently working on completing the CompTIA Project+ certification.
 - 🌱 I’m currently learning front-end development. 
 
 #
