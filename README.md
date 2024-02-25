@@ -23,9 +23,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 
 #
 ### Certifications
-<a href="https://www.credly.com/badges/074f3482-17bd-4e52-9768-af0665c9c21e/public_url" target="_blank"><img align="left" alt="Git" height="100px" style="padding-right:10px;" src="https://github.com/ChristopherJack/certifications/blob/main/google-comptia-dual-credential.png" /></a>
-<a href="https://www.credly.com/badges/074f3482-17bd-4e52-9768-af0665c9c21e/public_url" target="_blank"><img align="left" alt="Git" height="100px" style="padding-right:10px;" src="https://github.com/ChristopherJack/certifications/blob/main/comptia-a-ce-certification.png" /></a>
-<a href="https://www.credly.com/badges/a9953131-ea36-46a8-893f-5548d69d2000/public_url" target="_blank"><img align="left" alt="Git" height="100px" style="padding-right:10px;" src="https://github.com/ChristopherJack/certifications/blob/main/google-it-support-professional-certificate.1.png" /></a>
+<a href="https://www.credly.com/badges/76c90b18-94b8-4119-956c-a3da451f43d1/" target="_blank"><img align="left" alt="Git" height="100px" style="padding-right:10px;" src="https://github.com/ChristopherJack/certifications/blob/main/google-comptia-dual-credential.png" /></a>
+<a href="https://www.credly.com/badges/074f3482-17bd-4e52-9768-af0665c9c21e/" target="_blank"><img align="left" alt="Git" height="100px" style="padding-right:10px;" src="https://github.com/ChristopherJack/certifications/blob/main/comptia-a-ce-certification.png" /></a>
+<a href="https://www.credly.com/badges/a9953131-ea36-46a8-893f-5548d69d2000/" target="_blank"><img align="left" alt="Git" height="100px" style="padding-right:10px;" src="https://github.com/ChristopherJack/certifications/blob/main/google-it-support-professional-certificate.1.png" /></a>
 
 
 #
