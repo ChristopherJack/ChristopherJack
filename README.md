@@ -23,7 +23,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 
 #
 ### Certifications
-[<img src="https://github.com/ChristopherJack/certifications/blob/main/comptia-a-ce-certification.1.png" />](https://www.credly.com/badges/074f3482-17bd-4e52-9768-af0665c9c21e/public_url)
 <a href="https://www.credly.com/badges/074f3482-17bd-4e52-9768-af0665c9c21e/public_url" target="_blank"><img src="https://github.com/ChristopherJack/certifications/blob/main/comptia-a-ce-certification.1.png" /></a>
 
 #
