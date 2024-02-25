@@ -32,8 +32,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 <br>
 
 #
+<!--
 [![Christopher's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=christopherjack&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/christopherjack/github-readme-stats#gh-dark-mode-only)
 [![Christopher's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=christopherjack&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/christopherjack/github-readme-stats#gh-light-mode-only)
+-->
 #
 
 
