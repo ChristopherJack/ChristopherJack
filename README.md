@@ -1,7 +1,7 @@
 ### Hey there 👋
 
-- 🔭 I’m currently working on completing the AWS Cloud Foundations certification.
-- 🌱 I’m currently learning front-end development. 
+- 🔭 I’m currently working on the Google Cybersecurity Professional Certificate.
+- 🌱 I’m currently studying for the CompTIA Network+ certification.
 
 #
 
