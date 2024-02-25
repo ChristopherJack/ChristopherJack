@@ -27,4 +27,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 [![Christopher's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=christopherjack&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/christopherjack/github-readme-stats#gh-light-mode-only)
 #
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="074f3482-17bd-4e52-9768-af0665c9c21e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
