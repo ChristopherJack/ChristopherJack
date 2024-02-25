@@ -30,6 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 <a href="https://www.credly.com/badges/a9953131-ea36-46a8-893f-5548d69d2000/" target="_blank"><img align="left" alt="Git" height="100px" style="padding-right:10px;" src="https://github.com/ChristopherJack/certifications/blob/main/google-it-support-professional-certificate.1.png" /></a>
 
 <br>
+
 #
 [![Christopher's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=christopherjack&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/christopherjack/github-readme-stats#gh-dark-mode-only)
 [![Christopher's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=christopherjack&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/christopherjack/github-readme-stats#gh-light-mode-only)
