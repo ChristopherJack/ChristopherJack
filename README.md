@@ -1,6 +1,6 @@
 ### Hey there 👋
-- 🔭 I’m currently working on the Google Cybersecurity Professional Certificate.
-- 🌱 I’m currently studying for the CompTIA CySA+ certification.
+- 🔭 I’m currently working on AI Red Teaming.
+- 🌱 I’m currently studying for the CompTIA Network+ certification.
 
 #
 ### Skills
