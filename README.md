@@ -35,9 +35,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
 -->
 
 <br>
-
+<!--
 #
 ### Roadmap
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68c31ef2e6693e21b4e5fad7?variant=dark" alt="roadmap.sh" align="left"/></a>
-
+-->
 
